@@ -7,6 +7,7 @@
 - La vista en donde se desplega la tabla de datos está en la siguiente ruta: [/resources/views/posts/postVista.blade.php](https://github.com/drachens/Act5-Cifrado/blob/main/resources/views/posts/postVista.blade.php)
 
 - La vista que genera el formulario POST y lo envía esta en la siguiente ruta: [/resources/views/posts/postCreate.blade.php](https://github.com/drachens/Act5-Cifrado/blob/main/resources/views/posts/postCreate.blade.php)
+- Finalmente, las rutas se encuentran en [/routes/web.php](https://github.com/drachens/Act5-Cifrado/blob/main/routes/web.php)
 
 ## Ejemplo de vista
 
