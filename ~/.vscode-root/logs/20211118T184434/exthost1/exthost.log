@@ -1,0 +1,202 @@
+[2021-11-18 18:44:44.243] [exthost] [info] extension host started
+[2021-11-18 18:44:45.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-11-18 18:44:45.085] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-11-18 18:44:45.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-11-18 18:44:45.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-11-18 18:44:45.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-18 18:44:45.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-11-18 18:44:45.645] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-11-18 18:44:45.646] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/christian-kohler.path-intellisense-2.4.2/out/extension.js
+[2021-11-18 18:44:46.300] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-11-18 18:44:46.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-11-18 18:44:46.420] [exthost] [info] ExtensionService#_doActivateExtension kiteco.kite {"startup":true,"extensionId":{"value":"kiteco.kite","_lower":"kiteco.kite"},"activationEvent":"*"}
+[2021-11-18 18:44:46.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/kiteco.kite-0.147.0/dist/kite-extension
+[2021-11-18 18:44:46.552] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-11-18 18:44:46.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-11-18 18:44:46.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-11-18 18:44:46.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-11-18 18:44:49.676] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 293
+[2021-11-18 18:44:49.827] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-11-18 18:44:49.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-18 18:44:51.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-18 18:44:51.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-11-18 18:44:53.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-11-18 18:44:53.692] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-11-18 18:44:53.763] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-11-18 18:44:53.763] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-11-18 18:44:53.897] [exthost] [info] ExtensionService#_doActivateExtension rifi2k.format-html-in-php {"startup":false,"extensionId":{"value":"rifi2k.format-html-in-php","_lower":"rifi2k.format-html-in-php"},"activationEvent":"onLanguage:php"}
+[2021-11-18 18:44:53.898] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/rifi2k.format-html-in-php-1.7.0/out/extension
+[2021-11-18 18:44:53.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-11-18 18:44:53.965] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-11-18 18:44:54.220] [exthost] [info] eager extensions activated
+[2021-11-18 18:44:54.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-11-18 18:44:54.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-18 18:44:54.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-11-18 18:44:54.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-18 18:44:54.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-11-18 18:44:54.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-11-18 18:44:54.397] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-11-18 18:44:54.397] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/dbaeumer.vscode-eslint-2.1.20/client/out/extension
+[2021-11-18 18:44:56.551] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 505
+[2021-11-18 18:45:18.621] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-11-18 18:45:28.323] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-11-18 18:45:28.338] [exthost] [error] Canceled: Canceled
+    at w.makeCancelError (/home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+    at w.handleFailedRequest (/home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+    at /home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-11-18 18:46:03.015] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-11-18 18:46:03.017] [exthost] [error] Canceled: Canceled
+    at w.makeCancelError (/home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+    at w.handleFailedRequest (/home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+    at /home/drachen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-11-18 18:46:04.771] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 18:50:26.270] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 18:50:49.430] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 18:51:56.528] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 18:52:33.113] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 18:52:38.379] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 18:52:43.564] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 18:52:48.716] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 18:58:23.801] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 18:59:18.235] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 18:59:23.493] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 18:59:28.652] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 573
+[2021-11-18 19:02:53.211] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 572
+[2021-11-18 19:05:50.208] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 19:05:55.368] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 19:06:16.581] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 19:06:22.754] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 19:06:27.907] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:09:35.821] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:11:55.261] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 19:15:34.618] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 19:15:50.014] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:15:55.190] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:16:27.022] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:17:35.278] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:17:40.459] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:17:57.817] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:18:49.208] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:19:07.688] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:20:34.258] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:20:44.455] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:20:57.779] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:21:05.304] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 19:24:41.498] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 21:55:54.040] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 21:56:04.588] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:06:18.390] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:06:25.717] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:07:06.222] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:07:59.545] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:11:16.260] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 22:16:25.054] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 22:22:10.200] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 22:22:51.508] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 574
+[2021-11-18 22:24:27.857] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:28:56.622] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:32:05.057] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:33:12.135] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:33:17.294] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:33:22.451] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:33:27.571] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:33:39.750] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:33:44.881] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:35:12.428] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:35:17.566] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:36:42.001] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:36:47.136] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:37:14.305] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:37:19.448] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:37:51.199] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:37:56.335] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:40:09.244] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:40:18.229] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 22:40:23.405] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:40:38.835] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:40:44.557] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:42:13.846] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:42:18.961] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:42:26.206] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:42:32.393] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:42:49.894] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:43:08.814] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:43:20.300] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:44:52.875] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:45:12.748] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:45:17.871] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:45:22.991] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:45:53.716] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:46:03.557] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:46:08.683] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:46:13.826] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:46:19.622] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:46:54.581] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:03.010] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:08.134] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:15.389] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:20.524] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:25.655] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:30.801] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:43.879] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:49.029] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:47:54.165] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:50:54.497] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:52:38.569] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:53:22.619] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:54:16.546] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:54:29.923] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:54:35.085] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 22:58:26.443] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 578
+[2021-11-18 22:58:31.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 578
+[2021-11-18 23:02:01.628] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:02:06.749] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:06:30.264] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 582
+[2021-11-18 23:06:35.384] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 580
+[2021-11-18 23:08:57.913] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 580
+[2021-11-18 23:10:48.979] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:10:54.129] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:11:27.673] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:11:32.799] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:13:13.759] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:13:18.896] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:13:44.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 579
+[2021-11-18 23:13:50.920] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 578
+[2021-11-18 23:13:56.033] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 577
+[2021-11-18 23:14:04.832] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 576
+[2021-11-18 23:15:04.378] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 23:16:36.126] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 23:16:41.247] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 575
+[2021-11-18 23:17:01.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-11-18 23:17:01.993] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-11-18 23:17:02.280] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2021-11-18 23:17:02.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/christian-kohler.npm-intellisense-1.4.0/out/src/extension
+[2021-11-18 23:17:04.000] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2021-11-18 23:17:04.000] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14/dist/intellicode
+[2021-11-18 23:17:05.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-11-18 23:17:05.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-11-18 23:17:06.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-11-18 23:17:06.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-11-18 23:17:19.685] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 591
+[2021-11-18 23:18:47.684] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 592
+[2021-11-18 23:18:52.821] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 592
+[2021-11-18 23:19:38.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-11-18 23:19:38.797] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-11-18 23:19:39.080] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2021-11-18 23:19:39.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/drachen/.vscode/extensions/eg2.vscode-npm-script-0.3.23/dist/extension
+[2021-11-18 23:20:30.850] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 595
+[2021-11-18 23:27:23.487] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:27:28.630] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:28:29.154] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:28:34.353] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:28:59.756] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:29:04.894] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:29:16.987] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:31:49.743] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 614
+[2021-11-18 23:32:25.509] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 614
+[2021-11-18 23:32:30.637] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:32:39.924] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:33:03.087] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:33:08.268] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:33:55.833] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:34:00.969] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
