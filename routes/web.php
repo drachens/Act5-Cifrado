@@ -22,6 +22,6 @@ Route::get('/index',[Info2Controller::class,'posts']);
 Route::get('/posts',function(){
     return view('posts.postVista');
 });
-Auth::routes();
+
 
 Route::get('/home', 'HomeController@index')->name('home');

@@ -200,3 +200,6 @@
 [2021-11-18 23:33:08.268] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
 [2021-11-18 23:33:55.833] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
 [2021-11-18 23:34:00.969] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613
+[2021-11-18 23:38:49.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-11-18 23:38:49.026] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-11-18 23:47:30.809] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 613

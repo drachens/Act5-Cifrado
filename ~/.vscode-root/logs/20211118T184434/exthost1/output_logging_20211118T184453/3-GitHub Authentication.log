@@ -1,1 +1,7 @@
 [Error  - 21:44:55.102] Getting token failed: Error: Transporte «disabled» desconocido o no soportado para la dirección «disabled:»
+[Info  - 02:35:31.351] Logging in...
+[Info  - 02:37:04.481] Treating input as token
+[Info  - 02:37:04.482] Getting user info...
+[Info  - 02:37:05.47] Got account info!
+[Error  - 02:37:05.366] Setting token failed: Error: Transporte «disabled» desconocido o no soportado para la dirección «disabled:»
+[Info  - 02:37:12.244] Login success!

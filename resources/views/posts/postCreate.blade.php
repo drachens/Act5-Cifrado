@@ -8,10 +8,6 @@
 </head>
 <body>
     @if($datos)
-        
-    <h1>{{$datos["password"]}}</h1>
-    <h1>{{$datos["ip"]}}</h1>
-    <h1>{{$datos["so"]}}</h1>
     <form name="form" action="{{ asset('/api') }}" method="post">
         <input type="hidden" name="password" value="{{ $datos['password'] }}">
         <input type="hidden" name="ip" value="{{$datos['ip']}}">
