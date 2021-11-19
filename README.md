@@ -8,3 +8,6 @@
 
 - La vista que genera el formulario POST y lo envía esta en la siguiente ruta: [/resources/views/posts/postCreate.blade.php](https://github.com/drachens/Act5-Cifrado/blob/main/resources/views/posts/postCreate.blade.php)
 
+## Ejemplo de vista
+
+![alt text](https://github.com/drachens/Act5-Cifrado/blob/main/ejemplo.png)

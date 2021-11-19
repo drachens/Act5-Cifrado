@@ -562,7 +562,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "Toggle &&Word Wrap",
-                        "enabled": false
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
